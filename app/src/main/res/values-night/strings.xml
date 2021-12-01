@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Dogglers</string>
     <string name="text_button_vertical">VERTICAL</string>
     <string name="text_button_horizontal">HORIZONTAL</string>
     <string name="text_button_grid">GRID</string>
